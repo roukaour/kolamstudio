@@ -1,6 +1,6 @@
 # Kolam Studio
 
-Copyright © 2012-2014 Remy Oukaour
+Copyright © 2012-2014 Remy Oukaour <http://www.remyoukaour.com>
 
 Implements a system for describing kolams as planar graphs.
 
