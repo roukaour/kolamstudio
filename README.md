@@ -7,6 +7,7 @@
 Kolam Studio implements a system for describing kolams as planar graphs.
 
 Right now the kolams are drawn with line segments, not smooth curves.
+However, they are still useful as guidelines for tracing.
 
 ## Kolams
 
